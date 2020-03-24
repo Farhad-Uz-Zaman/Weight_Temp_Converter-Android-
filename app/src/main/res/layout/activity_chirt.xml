@@ -337,15 +337,6 @@
 
 
 
-        <TableRow
-
-            android:background="#C2364B"
-            />
-
-        <TableRow
-
-            android:background="#837C9C"
-            />
 
 
 
@@ -684,15 +675,6 @@
 
 
 
-        <TableRow
-            android:id="@+id/ro4Id"
-            android:background="#C2364B"
-            />
-
-        <TableRow
-            android:id="@+id/ro3Id"
-            android:background="#837C9C"
-            />
 
 
 
